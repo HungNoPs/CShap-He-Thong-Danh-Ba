@@ -1,0 +1,15 @@
+D:\CShap\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\CShap\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\CShap\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.RelationshipForm.resources
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.RelationshipModuleForm.resources
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.PhoneBookForm.resources
+D:\CShap\PhoneBook\PhoneBook\obj\Debug\PhoneBook.PhoneBookModuleForm.resources
